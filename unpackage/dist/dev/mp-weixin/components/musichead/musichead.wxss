@@ -1,0 +1,50 @@
+
+.demo.data-v-e0b6e5e0 {
+	z-index: 1;
+	position: relative;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	font-size: 16px;
+}
+.left.data-v-e0b6e5e0 {
+	float: left;
+	position: absolute;
+	width: -webkit-max-content;
+	width: max-content;
+	height: -webkit-max-content;
+	height: max-content;
+	top: 0;
+	bottom: 0;
+	left: 20rpx;
+	margin: auto;
+	width: 90px;
+	height: 32px;
+	line-height: 32px;
+	border-radius: 15px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: space-evenly;
+	-webkit-justify-content: space-evenly;
+	        justify-content: space-evenly;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	background-color: rgba(0, 0, 0, .4);
+}
+.title-long.data-v-e0b6e5e0 {
+	width: 300rpx;
+	text-align: center;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+.icon-balck.data-v-e0b6e5e0 {color: #000; border: 1px #eaeaea solid; background-color: #fff;}
+
