@@ -1,7 +1,6 @@
 <template>
 	<view class="container">
 		<music-head title="榜单页面"></music-head>
-		
 			<view class="index-search" @click="searchTop()">
 				<text class="iconfont iconsearch"></text>
 				<input type="text" placeholder="搜索歌曲" disabled />
